@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="nome">Digite nome</string>
+    <string name="marca">Digite marca</string>
+    <string name="modelo">Digite modelo</string>
+    <string name="preco">Digite preço</string>
+    <string name="status">Digite status</string>
+    <string name="CADASTRO">CADASTRAR</string>
+</resources>
